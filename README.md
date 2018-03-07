@@ -1,2 +1,2 @@
 # General_App
-General App for learning.
+This application is to learn programming.
